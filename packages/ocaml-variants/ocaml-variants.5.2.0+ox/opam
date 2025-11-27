@@ -127,7 +127,7 @@ conflicts: [
   "ocaml-compiler-libs" {!= "v0.17.0+ox"}
   "ocaml-index" {!= "1.1+ox"}
   "ocaml-lsp-server" {!= "1.19.0+ox"}
-  "ocamlbuild" {!= "0.15.0+ox"}
+  "ocamlbuild" {!= "0.16.1+ox"}
   "ocamlformat" {!= "0.26.2+ox"}
   "ocamlformat-lib" {!= "0.26.2+ox"}
   "ojs" {!= "1.1.2+ox"}

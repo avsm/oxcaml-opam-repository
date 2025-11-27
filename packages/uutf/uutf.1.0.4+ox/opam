@@ -48,6 +48,6 @@ extra-files: [
   ]
   [
     "uutf-portable.patch"
-    "sha256=229e74a51057b60ec363be89ba677df3c28b609076a66ab8232885608b072c42"
+    "sha256=add71ff1fd68676f4ebb90d782ff3291334d270f0aefa90b21822cd05c940be7"
   ]
 ]
